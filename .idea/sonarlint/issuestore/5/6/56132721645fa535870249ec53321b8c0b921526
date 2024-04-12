@@ -1,0 +1,31 @@
+
+	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½®’ğì1J$767c4b59-f37c-4578-9537-3e8d91432e4f
+	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¿®’ğì1J$9764cb42-aa98-4daa-bc8b-6266a816b2e7
+	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8À®’ğì1J$947e15e7-750b-4210-8b5d-f984d3bb47ad
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8À®’ğì1J$9d231bd3-3267-4b28-8562-f73a1db9ebba
+	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Á®’ğì1J$b680b72e-5395-4cc1-b923-ddd52aea2b31
+	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Á®’ğì1J$02160097-7af1-4335-924e-8fcd20696322
+ª
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "connection".(¡ÈÊÉüÿÿÿÿ8Ã®’ğì1J$5cc23dbb-09e6-416a-b969-b76453cff258
+Š
+java:S2259%"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8ì®’ğì1J$34737e24-7396-47d9-9f2e-ad56cf567bca
+ƒ
+java:S2259Y"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8í®’ğì1J$04f44de3-35b8-4cdb-8da3-1b44f38720d0
+ˆ
+java:S2259X"@A "NullPointerException" could be thrown; "st" is nullable here.(•û—ûÿÿÿÿ8í®’ğì1J$56231f48-34d1-40cc-9ecb-b8303f9b131a
+ˆ
+java:S2259<"@A "NullPointerException" could be thrown; "st" is nullable here.(•û—ûÿÿÿÿ8í®’ğì1J$c478d127-8977-41cd-afe7-c4eeb8c05000
+ƒ
+java:S2259="@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8í®’ğì1J$9efcaf31-d7ab-4aab-9334-6a5bf13be024
+u
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8ò®’ğì1J$4c499643-764f-41d3-bc96-1c24190697b8
+~
+java:S6437"6Revoke and change this password, as it is compromised.(¡ÈÊÉüÿÿÿÿ8ó®’ğì1J$c9ffbc28-61bc-40cf-892e-639373b97d54
+‡
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(ıàÑÎ8õ®’ğì1J$f017dae0-70f8-4cd9-8eb8-2bad19205d81
+‡
+java:S21479"DCombine this catch with the one at line 55, which has the same body.(ıàÑÎ8û®’ğì1J$6a2f1e92-173e-4bf8-80e8-66198714ef3a
+k
+java:S1172D"(Remove this unused method parameter "d".(ÃáÃ8Ë’œğì1J$bd2d5678-22a2-4e97-96e3-b6a22a6d1543
+‡
+java:S2147U"DCombine this catch with the one at line 83, which has the same body.(ıàÑÎ8ÿ®’ğì1J$edbb8784-11b6-4b2a-952e-50d379dd1d81
